@@ -10,7 +10,7 @@
     1. [Controller](#server)
 1. [About Us](#about-us)
 
-Our second coding boot camp project: Nesterly will allow the user to develop a cataloged inventory of their home goods. The user will be able to organize their major possessions by category and location. Both are customizable, if you are a musician in a one-bedroom apartment, or an art collector in a mansion, if you have stuff to keep track of, Nesterly can keep track of it.
+Our second coding boot camp project: Nesterly will allow the user to develop a cataloged inventory of their home goods. The user will be able to organize their major possessions by category and location. Both are customizable. Whether you are a musician in a one-bedroom apartment or an art collector in a mansion, if you have stuff to keep track of, Nesterly can keep track of it.
 
 ## Installation
 
